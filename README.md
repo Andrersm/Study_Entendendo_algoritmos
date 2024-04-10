@@ -1,5 +1,4 @@
 
-```markdown
 # Estudo do Livro: Entendendo Algoritmos
 
 Este repositório é dedicado ao estudo do livro "Entendendo Algoritmos: Um Guia Ilustrado para Programadores e Outros Curiosos". O foco está em explorar, implementar e entender os algoritmos apresentados no livro, com o objetivo de aprofundar o conhecimento em algoritmos e suas aplicações práticas na programação.
