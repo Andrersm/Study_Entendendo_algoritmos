@@ -22,7 +22,6 @@ def pesquisa_binaria(lista, item):
             print(f" else baixo: {baixo}")
     return None
 
-
 minha_lista = list(range(1, 101))
 
 print(pesquisa_binaria(minha_lista, 20))
