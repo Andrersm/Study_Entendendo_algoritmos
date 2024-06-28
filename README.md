@@ -16,7 +16,8 @@ Para facilitar o entendimento do funcionamento dos algoritmos, cada implementaç
 
 Atualmente, o repositório contém a implementação do seguinte algoritmo:
 
-- **Pesquisa Binária (`pesquisa_binaria.py`)**
+- **Pesquisa Binária (`binarySearch.py`)**
+- **Ordenação por seleção (`selectionSort.py`)**
 
 Conforme progrido no estudo do livro, novos algoritmos serão implementados e adicionados ao repositório, cada um em seu respectivo arquivo, seguindo o padrão de nomenclatura `<nome_do_algoritmo>.py`.
 
