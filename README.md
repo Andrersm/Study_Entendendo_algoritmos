@@ -18,8 +18,12 @@ Atualmente, o repositório contém a implementação do seguinte algoritmo:
 
 - **Pesquisa Binária (`binarySearch.py`)**
 - **Ordenação por seleção (`selectionSort.py`)**
+- **Recursão (`recursion.py`)**
+- **QuickSort (`quickSort.py`)**
+- **HashTables (`hashTable.py`)**
+- **Grafos (`grafos.py`)**
 
-Conforme progrido no estudo do livro, novos algoritmos serão implementados e adicionados ao repositório, cada um em seu respectivo arquivo, seguindo o padrão de nomenclatura `<nome_do_algoritmo>.py`.
+Conforme progrido no estudo do livro, novos algoritmos serão implementados e adicionados ao repositório, cada um em seu respectivo arquivo, seguindo o padrão de nomenclatura `<nomeDoAlgoritmo>.py`.
 
 ## Como Usar
 
