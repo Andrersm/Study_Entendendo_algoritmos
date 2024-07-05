@@ -3,10 +3,9 @@
 
 Este repositório é dedicado ao estudo do livro "Entendendo Algoritmos: Um Guia Ilustrado para Programadores e Outros Curiosos". O foco está em explorar, implementar e entender os algoritmos apresentados no livro, com o objetivo de aprofundar o conhecimento em algoritmos e suas aplicações práticas na programação.
 
-
 ## Objetivo do Repositório
 
-O principal objetivo deste repositório é servir como um espaço pessoal de estudo, onde eu implemento e testo os algoritmos discutidos no livro. Este processo não apenas me ajuda a entender melhor os algoritmos, mas também a aplicá-los na solução de problemas práticos de programação.
+O principal objetivo deste repositório é servir como um espaço pessoal de estudo, onde implemento e testo os algoritmos discutidos no livro. Este processo não apenas me ajuda a entender melhor os algoritmos, mas também a aplicá-los na solução de problemas práticos de programação.
 
 ### Atenção aos Detalhes
 
@@ -14,7 +13,7 @@ Para facilitar o entendimento do funcionamento dos algoritmos, cada implementaç
 
 ## Algoritmos Implementados
 
-Atualmente, o repositório contém a implementação do seguinte algoritmo:
+Atualmente, o repositório contém a implementação dos seguintes algoritmos:
 
 - **Pesquisa Binária (`binarySearch.py`)**
 - **Ordenação por seleção (`selectionSort.py`)**
@@ -22,8 +21,13 @@ Atualmente, o repositório contém a implementação do seguinte algoritmo:
 - **QuickSort (`quickSort.py`)**
 - **HashTables (`hashTable.py`)**
 - **Grafos (`grafos.py`)**
+- **Algoritmo de Dijkstra (`algoritmoDeDijkstra.py`)**
+- **Algoritmo guloso (`algoritmosGulosos.py`)**
+- **K-vizinhos (`kVizinhos.py`)**
 
-Conforme progrido no estudo do livro, novos algoritmos serão implementados e adicionados ao repositório, cada um em seu respectivo arquivo, seguindo o padrão de nomenclatura `<nomeDoAlgoritmo>.py`.
+## Finalização do Livro
+
+Este repositório contém todas as implementações dos algoritmos abordados no livro "Entendendo Algoritmos". Alguns algoritmos possuem comentários detalhados para auxiliar na compreensão do código. Além disso, algumas respostas de exercícios estão incluídas, mas não todas. Algumas questões foram resolvidas utilizando papel e caneca, conforme recomendação do livro.
 
 ## Como Usar
 
@@ -35,3 +39,4 @@ git clone https://github.com/Andrersm/Study_Entendendo_algoritmos
 
 Sinta-se à vontade para explorar o código e utilizá-lo como parte do seu estudo sobre algoritmos.
 
+---
